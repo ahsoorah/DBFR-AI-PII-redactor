@@ -62,3 +62,6 @@ Author
 Suriyah Saravanan
 Bachelor's in Management Information Systems (MIS), Cybersecurity
 Florida Atlantic University
+
+Professional Disclaimer
+This tool is intended for administrative assistance, and this specific version is for proof-of-concept purposes. While it utilizes advanced AI, final documents should always undergo a secondary human review to ensure 100% compliance with local privacy laws.
