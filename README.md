@@ -67,8 +67,8 @@ Metadata Scrubbing: Physically removes XML metadata and "burns" the redactions i
 
 Author
 ---
-Suriyah Saravanan
-Bachelor's in Management Information Systems (MIS), Cybersecurity
+Suriyah Saravanan | 
+Bachelor's in Management Information Systems (MIS), Cybersecurity | 
 Florida Atlantic University
 
 Professional Disclaimer
