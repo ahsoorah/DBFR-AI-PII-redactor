@@ -1,0 +1,4 @@
+pymupdf
+easyocr
+presidio-analyzer
+spacy
