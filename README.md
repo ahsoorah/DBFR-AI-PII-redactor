@@ -8,7 +8,7 @@ Originally developed during my Fire Technology Internship with the City of Delra
 
 Business Impact
 ---
-Operational Efficiency: Reduced manual redaction time for public record requests and HIPAA-compliant data sharing by approximately 75%.
+Operational Efficiency: Reduced manual redaction time for public record requests and HIPAA-compliant data sharing by roughly 75%.
 
 Risk Mitigation: Utilizes a multi-layered AI approach to catch "hidden" PII in narrative text that standard pattern-matching tools often miss.
 
@@ -63,7 +63,7 @@ Analysis: Runs parallel sweeps using the 4-layer logic mentioned above.
 
 Surgical Redaction: Applies redaction annotations only to specific coordinates, preserving document layout.
 
-Metadata Scrubbing: Physically removes XML metadata and "burns" the redactions into a flattened output file.
+Metadata Scrubbing: Removes document metadata and permanently applies configured redactions to the output PDF.
 
 Author
 ---
